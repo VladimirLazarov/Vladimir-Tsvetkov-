@@ -1,6 +1,6 @@
 # Welcome to Vladimir Tsvetkov's GitHub!
 
-<img src="[https://example.com/yourimage.jpg](https://github.com/VladimirLazarov/Vladimir-Tsvetkov-/blob/main/yourimage.jpg?raw=true)" alt="Banner Image" width="800">
+<img src="[[https://example.com/yourimage.jpg](https://github.com/VladimirLazarov/Vladimir-Tsvetkov-/blob/main/yourimage.jpg?raw=true)](https://raw.githubusercontent.com/VladimirLazarov/Vladimir-Tsvetkov-/refs/heads/main/image-rendered.webp)" alt="Banner Image" width="800">
 
 ##  About Me
 Hi, I'm **Vladimir Tsvetkov**, a passionate Software Developer, Data Scientist, etc.with a love for problem-solving, coding, and technology.
